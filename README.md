@@ -1,2 +1,2 @@
 # UI-Project
-Just to learn UI tools
+Just to learn UI tools, HTML, CSS & JS
